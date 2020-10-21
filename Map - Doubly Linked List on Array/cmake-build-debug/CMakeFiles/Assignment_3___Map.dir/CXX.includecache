@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/Map.cpp
+Map.h
+/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/Map.h
+MapIterator.h
+/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/MapIterator.h
+
+/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/Map.h
+utility
+-
+
+/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/MapIterator.h
+Map.h
+/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/Map.h
+
+/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/ShortTest.cpp
+ShortTest.h
+/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/ShortTest.h
+assert.h
+-
+Map.h
+/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/Map.h
+MapIterator.h
+/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/MapIterator.h
+iostream
+-
+
+/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/ShortTest.h
+

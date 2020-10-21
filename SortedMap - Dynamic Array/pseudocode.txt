@@ -1,0 +1,30 @@
+function mostFrequent is
+	if isEmpty() == true then
+		return NULL_TVALUE
+	end-if
+
+	frequency[1000] <- {0}
+	maxOfValues <- 0
+	maxFrequency <-0
+	maxValue <- 0
+
+	for i<-0,numberOfElements,1 execute
+	 	frequency[map[i].second] <-0
+		if maxOfValues < map[i].second then
+			maxOfValues <- map[i].second
+		end-if
+	end-for
+
+	for i<-0,numberOfElements,1 execute
+		frequency[map[i].second]++
+	end-for
+
+
+	for i<-0,maxOfValues,1 execute
+		if frequency[i] > maxFrequency then
+			maxFrequency = frequency[i]
+			maxValue = i
+		end-if
+	end-for
+
+	return maxValue

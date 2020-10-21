@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment_3___Map"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment_3___Map">
+				<Option output="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/cmake-build-debug/Assignment_3___Map" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/."/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_3___Map"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment_3___Map/fast">
+				<Option output="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/cmake-build-debug/Assignment_3___Map" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/."/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_3___Map/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/ioana/Documents/Sem2/DSA/Assignment\ 3\ -\ Map/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/App.cpp">
+			<Option target="Assignment_3___Map"/>
+		</Unit>
+		<Unit filename="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/ExtendedTest.cpp">
+			<Option target="Assignment_3___Map"/>
+		</Unit>
+		<Unit filename="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/ExtendedTest.h">
+			<Option target="Assignment_3___Map"/>
+		</Unit>
+		<Unit filename="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/Map.cpp">
+			<Option target="Assignment_3___Map"/>
+		</Unit>
+		<Unit filename="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/Map.h">
+			<Option target="Assignment_3___Map"/>
+		</Unit>
+		<Unit filename="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/MapIterator.cpp">
+			<Option target="Assignment_3___Map"/>
+		</Unit>
+		<Unit filename="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/MapIterator.h">
+			<Option target="Assignment_3___Map"/>
+		</Unit>
+		<Unit filename="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/ShortTest.cpp">
+			<Option target="Assignment_3___Map"/>
+		</Unit>
+		<Unit filename="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/ShortTest.h">
+			<Option target="Assignment_3___Map"/>
+		</Unit>
+		<Unit filename="/Users/ioana/Documents/Sem2/DSA/Assignment 3 - Map/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ioana/Documents/Sem2/DSA/Assignment 2 - Bag/App.cpp
+Bag.h
+/Users/ioana/Documents/Sem2/DSA/Assignment 2 - Bag/Bag.h
+ShortTest.h
+/Users/ioana/Documents/Sem2/DSA/Assignment 2 - Bag/ShortTest.h
+ExtendedTest.h
+/Users/ioana/Documents/Sem2/DSA/Assignment 2 - Bag/ExtendedTest.h
+iostream
+-
+unistd.h
+-
+
+/Users/ioana/Documents/Sem2/DSA/Assignment 2 - Bag/Bag.h
+
+/Users/ioana/Documents/Sem2/DSA/Assignment 2 - Bag/ExtendedTest.h
+
+/Users/ioana/Documents/Sem2/DSA/Assignment 2 - Bag/ShortTest.h
+
